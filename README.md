@@ -2,9 +2,9 @@
 
 ![GENERATOR GRAPHIC](engine-texty1.png)
 ---
-⚠️ | WARNING! THIS README BLOWS MINDS !! | ⚠️ 
+⚠️ &nbsp;&nbsp; WARNING! THIS README BLOWS MINDS !! &nbsp;&nbsp; ⚠️ 
 ---
-⚠️ | WARNING! HAVING BRAINS IS A MANDATORY PREREQUISITE !! | ⚠️ 
+⚠️ &nbsp;&nbsp; WARNING! HAVING BRAINS IS A MANDATORY PREREQUISITE !! &nbsp;&nbsp; ⚠️ 
 ---
 ## Table of Contents
 - [Heading](#project-readme-heading)
