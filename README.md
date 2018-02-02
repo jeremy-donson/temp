@@ -1,15 +1,10 @@
 # README for README.md Doc Generator
 
-![GENERATOR GRAPHIC](engine.png)
-
----
-
 ![GENERATOR GRAPHIC](engine-texty1.png)
-
 ---
-⚠️ -- WARNING! THIS README BLOWS MINDS -- ⚠️ 
-
-⚠️ -- WARNING! HAVING BRAINS IS REQUIRED -- ⚠️ 
+⚠️ | WARNING! THIS README BLOWS MINDS !! | ⚠️ 
+---
+⚠️ | WARNING! HAVING BRAINS IS A MANDATORY PREREQUISITE !! | ⚠️ 
 ---
 ## Table of Contents
 - [Heading](#project-readme-heading)
@@ -18,6 +13,10 @@
 - [Project Justification](#project-justification)
 - [Beginner Use-Cases](#beginner-use-cases)
 - [Expert Use-Cases](#expert-use-cases)
+- [How To Get One For Very Little Money](#how-to-get-one-for-very-little-money)
+- [How To Get One For Cheap or Free](#how-to-get-one-for-cheap-or-free)
+- [Contributors](#contributors)
+- [Enhancements](#enhancements)
 - [Attributions](#attributions)
 ---
 # Project README Heading
@@ -33,30 +32,40 @@
 ## Project Origin Home
 [Project Origin Home](https://bitbucket.org/urbanspectra/temicka-brown-reboot)
 
-## Project Justification
+## Project Justifications
++ [Github speaks quite lucidly](https://help.github.com/articles/about-readmes/) about README's, repository licenses, contribution guidelines, and codes of conduct
+- README docs tend to be about what and how. Justifications regard "WHY". Well, Why WHAT?
+- [What ARE Git and Github?]()
+- [Why Are README's Important?]()
+- [Why Are README's Important To Whom?]()
+- [Are All README's Rated The Same Way?]()
+- [What makes README's Effective?]()
+- [How Do README Design Goals Vary?]()
 
 ## Beginner Use-Cases
 
+
 ## Expert Use-Cases
 
-### 
+## How To Get One For Very Little Money
 
-1. $ cd ..                                  # Get out of current project that is messy
-2. $ mv PROJDIR PROJDIR-old                 # Rename folder where you made git spaghetti.  :)
-3. $ git clone https://PROJ-REPO-URL        # Reclone project from remote github.
-4. $ cd PROJDIR-old                         # Enter old renamed project folder.
-=> get on the right branch
-=> $ git log
-to see what to diff and gather 
+## How To Get One For Cheap or Free
 
+## Contributors
 
+## Enhancements
+- [ ]: Improve audience types.
+- [ ]: Improve audience types.
+- [ ]: Improve audience types.
 
 ## Attributions
-- [One SWEET README.md](https://github.com/teles/array-mixer)
-- [Another SWEET README.md]()
 - [Heading SVG Graphic](http://www.clker.com/cliparts/W/N/P/7/p/3/engine.svg)
+- [One SWEET README.md](https://github.com/teles/array-mixer)
+- [Another SWEET README.md](https://github.com/facebook/create-react-app)
 - [Gallery of Great README Examples](https://github.com/matiassingers/awesome-readme)
 - [Fine Source of Markdown Cheats](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Github Docs About READMEs (Redundant, NO? :D )](https://help.github.com/articles/about-readmes/)
+- [barterEngine]()
 - [OWNER](https://www.github.com/jeremy-donson/)
 
 ©2018 [Jeremy J Donson](https://www.github.com/jeremy-donson/), New York City, 20017

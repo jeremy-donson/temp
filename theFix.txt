@@ -1,0 +1,9 @@
+```
+1. $ cd ..                                  # Get out of current project that is messy but has work to preserve.
+2. $ mv PROJDIR PROJDIR-old                 # Rename folder where you made git spaghetti.  :)
+3. $ git clone https://PROJ-REPO-URL        # Reclone project from remote github.
+4. $ cd PROJDIR-old                         # Enter old renamed project folder.
+5. $ git branch                             # List all branches => Then get on the right branch
+6. $ git log                                # 
+to see what to diff and gather 
+```
