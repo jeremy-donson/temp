@@ -2,9 +2,9 @@
 
 ![GENERATOR GRAPHIC](engine-texty1.png)
 ---
-⚠️ &nbsp;&nbsp; WARNING! THIS README BLOWS MINDS !! &nbsp;&nbsp; ⚠️ 
+⚠️ &nbsp;&nbsp; WARNING! THIS README BLOWS MINDS! &nbsp;&nbsp; ⚠️ 
 ---
-⚠️ &nbsp;&nbsp; WARNING! HAVING BRAINS IS A MANDATORY PREREQUISITE !! &nbsp;&nbsp; ⚠️ 
+⚠️ &nbsp;&nbsp; WARNING! HAVING BRAINS IS A MANDATORY PREREQUISITE! &nbsp;&nbsp; ⚠️ 
 ---
 ## Table of Contents
 - [Heading](#project-readme-heading)
@@ -33,17 +33,28 @@
 [Project Origin Home](https://bitbucket.org/urbanspectra/temicka-brown-reboot)
 
 ## Project Justifications
-+ [Github speaks quite lucidly](https://help.github.com/articles/about-readmes/) about README's, repository licenses, contribution guidelines, and codes of conduct
-- README docs tend to be about what and how. Justifications regard "WHY". Well, Why WHAT?
++ [Github speaks quite lucidly](https://help.github.com/articles/about-readmes/) about README's, repository licenses, contribution guidelines, and codes of conduct.
+- README docs tend to be about WHAT and HOW. Justifications regard "WHY". Well, WHY WHAT?
 - [What ARE Git and Github?]()
-- [Why Are README's Important?]()
-- [Why Are README's Important To Whom?]()
-- [Are All README's Rated The Same Way?]()
-- [What makes README's Effective?]()
-- [How Do README Design Goals Vary?]()
+- [What ARE Open Source and Linux?]()
+- [Why Should I Care?]()
+- [Why Are READMEs Important?]()
+- [Why Are READMEs Important To Whom?]()
+- [Are All READMEs Rated The Same Way?]()
+- [What makes READMEs Effective?]()
+- [How Do READMEs Design Goals Vary?]()
+- [How many kinds of READMEs Are There?]()
+- [Practical Justifications]()
+- [Ethical Justifications]()
 
 ## Beginner Use-Cases
 
+
+And that is what this work IS.
+Save others time, and they are to do the same in kind.
+
+I like that ethic, both personally and professionally.
+Instead, for everyone to be wasting time, each with their own version of the exact same problem?  NO thx!~ . 😀
 
 ## Expert Use-Cases
 
@@ -60,6 +71,7 @@
 
 ## Attributions
 - [Heading SVG Graphic](http://www.clker.com/cliparts/W/N/P/7/p/3/engine.svg)
+- [Complete Github Markdown Emoji Markup](https://gist.github.com/rxaviers/7360908)
 - [One SWEET README.md](https://github.com/teles/array-mixer)
 - [Another SWEET README.md](https://github.com/facebook/create-react-app)
 - [Gallery of Great README Examples](https://github.com/matiassingers/awesome-readme)
