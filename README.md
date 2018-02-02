@@ -1,8 +1,8 @@
 # README for README.md Doc Generator
-
-![GENERATOR GRAPHIC](engine-texty1.png)
 ---
 ⚠️ &nbsp;&nbsp; WARNING! THIS README BLOWS MINDS! &nbsp;&nbsp; ⚠️ 
+---
+![GENERATOR GRAPHIC](engine-texty1.png)
 ---
 ⚠️ &nbsp;&nbsp; WARNING! HAVING BRAINS IS A MANDATORY PREREQUISITE! &nbsp;&nbsp; ⚠️ 
 ---
@@ -35,8 +35,10 @@
 ## Project Justifications
 + [Github speaks quite lucidly](https://help.github.com/articles/about-readmes/) about README's, repository licenses, contribution guidelines, and codes of conduct.
 - README docs tend to be about WHAT and HOW. Justifications regard "WHY". Well, WHY WHAT?
-- [What ARE Git and Github?]()
-- [What ARE Open Source and Linux?]()
+- [What is Git?]()
+- [What Is Github?]()
+- [What Is Open Source](pages/open-source.md)
+- [What Is Linux?]()
 - [Why Should I Care?]()
 - [Why Are READMEs Important?]()
 - [Why Are READMEs Important To Whom?]()
@@ -48,13 +50,6 @@
 - [Ethical Justifications]()
 
 ## Beginner Use-Cases
-
-
-And that is what this work IS.
-Save others time, and they are to do the same in kind.
-
-I like that ethic, both personally and professionally.
-Instead, for everyone to be wasting time, each with their own version of the exact same problem?  NO thx!~ . 😀
 
 ## Expert Use-Cases
 
